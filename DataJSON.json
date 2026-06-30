@@ -1,0 +1,12 @@
+{
+  "makanan": [
+    { "nama": "Nasi Goreng Spesial", "harga": 25000 },
+    { "nama": "Mie Ayam Jamur", "harga": 18000 },
+    { "nama": "Ayam Bakar Madu", "harga": 30000 }
+  ],
+  "minuman": [
+    { "nama": "Es Teh Manis", "harga": 5000 },
+    { "nama": "Jus Alpukat", "harga": 15000 },
+    { "nama": "Kopi Susu Gula Aren", "harga": 18000 }
+  ]
+}
